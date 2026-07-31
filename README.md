@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Matthias 👋
 
-<!--
-**besessener/besessener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **DevOps Engineer** and **Software Developer** based in Germany.
 
-Here are some ideas to get you started:
+I enjoy building reliable cloud infrastructure, automating deployments, and developing modern applications. Most of my personal work is open source and explores cloud-native technologies, Kubernetes, AI, and developer tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech
+
+- Java
+- TypeScript
+- Python
+- Spring Boot
+- React
+- Docker
+- Kubernetes
+- AWS
+- Terraform
+- GitHub Actions
+
+## 🌱 Projects
+
+Most of my projects are available at **https://nobuddy.org** and here on GitHub.
+
+## 📫 Connect
+
+- 🌐 https://nobuddy.org
+- 💼 https://www.linkedin.com/in/matthias-eggert-b7939a18a/
